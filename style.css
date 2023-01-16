@@ -31,4 +31,9 @@ footer {
 .linked {
     width: 20px;
     height: 20px;    
-    }
+}
+
+.linked:hover {
+    transform: translateY(-20px);
+}
+
