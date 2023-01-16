@@ -17,6 +17,6 @@ function updateCounter() {
   fetch('https://api.countapi.xyz/update/dannyace/github/?amount=1')
     .then(res => res.json())
     .then(res => {
-      countEl.innerHTML = res.value;
+      counterEl.innerHTML = res.value;
       });
   }
