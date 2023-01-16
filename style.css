@@ -6,7 +6,7 @@
 
 h1 {
     background-color:green;
-    color:white
+    color:white;
 }
 
 table {
@@ -21,6 +21,11 @@ th {
 
 a {
     text-decoration: none;
+}
+
+footer {
+    background-color:green;
+    color:white;
 }
 
 .linked {
