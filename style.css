@@ -22,3 +22,8 @@ th {
 a {
     text-decoration: none;
 }
+
+.linked {
+    width: 20px;
+    height: 20px;    
+    }
